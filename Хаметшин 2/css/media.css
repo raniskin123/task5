@@ -1,0 +1,70 @@
+@media (max-width: 375px) {
+  .container {
+    max-width: 340px;
+  }
+
+  nav {
+    display: none;
+  }
+
+  .header {
+    padding-top: 15px;
+    margin-bottom: 34px;
+  }
+
+  .phones {
+    display: none;
+  }
+
+  .logo {
+    margin-right: 120px;
+  }
+
+  .social {
+    margin-right: 20px;
+  }
+
+  .burger {
+    display: block;
+  }
+
+  .mobile-logo {
+    width: 48px;
+  }
+
+  .mobile-hero-img {
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  .title {
+    font-size: 32px;
+    text-align: center;
+    width: 335px;
+    line-height: 36px;
+    margin-bottom: 32px;
+  }
+
+  .desktop-hero-img {
+    display: none;
+  }
+
+  .hero__text {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    width: 340px;
+    line-height: 24px;
+    margin-bottom: 32px;
+  }
+
+  .hero__button {
+    display: block;
+    text-align: center;
+    padding: 16px 0;
+    width: 340px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+}
